@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\chowoo\documents\visual studio 2015\projects\cppclass\0330_product\main.cpp(121): warning C4715: 'productRegiste': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  0330_product.vcxproj -> C:\Users\Chowoo\Documents\Visual Studio 2015\Projects\CPPClass\Debug\0330_product.exe
